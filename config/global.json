@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "_default": {
+      "link": "fumbbl_browser"
+    },
+    "fumbbl_browser": {
+      "applicationId": "gQXnvWk0slPHaL810whmLIT7lgfqIhx0to1tLpxc",
+      "masterKey": "eyzlwD49TSxpmYAgLkejZHV975jtPtGTrEEu2W59"
+    }
+  }
+}
